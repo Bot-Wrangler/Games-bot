@@ -1,7 +1,34 @@
 # Games-bot
-##Active games
+## Active games
 ### Would you Rather
-  Concept: Present Question in a matter of would you rather Choice A or Choice B
-  Current Mix of SFW/NSFW Questions
-      In Discussion weather to seperate
+
+### What would you Do
+
+### Unpopular opinions
+
+### Truth or Dare
+
+### Pickup Lines
+
+### Never Have I Ever
+
+### Most Likely To
+
+### Ice Breakers
+
+### Dad Jokes
+
+### Who Said That
+
+## In Development
+
+### Confessions
+
+### Do or Die
+
+### Name your Price
+
+### 
+
+
   
